@@ -4,4 +4,8 @@ Open svchost.exe before anything else.
 Open bypass.exe before opening cs2.
 3. step
 open exloader installer, and install. after that select the cheat you want to use.
+
 IMPORTANT: Always run bypass.exe before playing with cheats.
+
+Here is the download link for exloader installer, it was too big to upload here: 
+         https://data2.exloader.net/ExLoader_Installer.exe
